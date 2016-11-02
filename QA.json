@@ -1,0 +1,29 @@
+ [
+   {
+    "ParameterKey": "ImageID",
+    "ParameterValue": "ami-775e4f16"
+    },
+
+   {
+       "ParameterKey": "InstanceType",
+       "ParameterValue": "t2.micro"
+   },
+   
+   {
+       "ParameterKey": "KeyName",
+       "ParameterValue": "instancepem"
+    },
+
+    {
+        "ParameterKey": "SubnetId",
+        "ParameterValue": "subnet-f3210985"
+    },
+
+    {
+	"ParameterKey": "InstanceSecurityGroup",
+	"ParameterValue": "sg-b3583aca"
+    }
+	
+]
+
+
