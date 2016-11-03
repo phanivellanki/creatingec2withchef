@@ -21,7 +21,7 @@
 
     {
 	"ParameterKey": "InstanceSecurityGroup",
-	"ParameterValue": "sg-sg-43a6633e"
+	"ParameterValue": "sg-43a6633e"
     }
 	
 ]
