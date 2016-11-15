@@ -11,17 +11,17 @@
    
    {
        "ParameterKey": "KeyName",
-       "ParameterValue": "instancepem"
+       "ParameterValue": "virginia"
     },
 
     {
         "ParameterKey": "SubnetId",
-        "ParameterValue": "subnet-f3210985"
+        "ParameterValue": "subnet-7e7aee37"
     },
 
     {
 	"ParameterKey": "InstanceSecurityGroup",
-	"ParameterValue": "sg-b3583aca"
+	"ParameterValue": "sg-43a6633e"
     }
 	
 ]
