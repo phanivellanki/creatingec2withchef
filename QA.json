@@ -1,7 +1,7 @@
  [
    {
     "ParameterKey": "ImageID",
-    "ParameterValue": " ami-0b06483b"
+    "ParameterValue": " ami-775e4f16"
     },
 
    {
@@ -11,17 +11,17 @@
    
    {
        "ParameterKey": "KeyName",
-       "ParameterValue": "virginia"
+       "ParameterValue": "instancepem"
     },
 
     {
         "ParameterKey": "SubnetId",
-        "ParameterValue": "subnet-7e7aee37"
+        "ParameterValue": "subnet-9b065bed"
     },
 
     {
 	"ParameterKey": "InstanceSecurityGroup",
-	"ParameterValue": "sg-43a6633e"
+	"ParameterValue": "sg-2dc68954"
     }
 	
 ]
